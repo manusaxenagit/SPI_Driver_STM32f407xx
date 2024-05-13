@@ -1,9 +1,4 @@
-/*
- * 006spi_tx_testing.c
- *
- *  Created on: Feb 10, 2019
- *      Author: admin
- */
+
 
 #include<string.h>
 #include "stm32f407xx.h"
