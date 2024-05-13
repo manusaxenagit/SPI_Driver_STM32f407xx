@@ -1,9 +1,3 @@
-/*
- * 006spi_tx_testing.c
- *
- *  Created on: Feb 10, 2019
- *      Author: admin
- */
 
 #include<stdio.h>
 #include<string.h>
